@@ -25,11 +25,8 @@ BeepLang is a beginner-friendly Morse Code converter built using Python (CLI) an
 ---
 
 <details>
-<summary><strong>🖥️ CLI Version (Python)</strong> (click to expand)</summary>
+<summary><strong>Author </strong> (click to expand)</summary>
 
-### ▶️ Run Instructions
+### dhruv bhandari
 
-1. **Install Dependencies**
 
-```bash
-pip install -r requirements.txt
