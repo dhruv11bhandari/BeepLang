@@ -3,9 +3,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![HTML/JS](https://img.shields.io/badge/Web-HTML%2FCSS%2FJS-orange?logo=javascript)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Beginner-Friendly](https://img.shields.io/badge/Difficulty-Beginner-lightgrey)
-![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
+
 
 BeepLang is a beginner-friendly Morse Code converter built using Python (CLI) and JavaScript (Web). It converts text to Morse code and vice versa, supports file input/output, and plays audio beeps for dots and dashes. This project is ideal for learning basic programming concepts like string manipulation, file handling, user input/output, and basic front-end development.
 
